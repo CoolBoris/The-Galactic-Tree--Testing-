@@ -1,6 +1,6 @@
 let modInfo = {
 	name: "The Galactic Tree",
-	id: "galactictree11",
+	id: "galactictreetesting",
 	author: "CoolBoris",
 	pointsName: "Money",
 
